@@ -15,9 +15,15 @@ direction: ltr
 # languages/*.yml
 nav:
   home: /
+<<<<<<< HEAD
   # about: /about
   articles: /blog/
   projects: http://github.com/hamzakat
+=======
+  about: /about/
+  articles: /archives/
+  projects: projects_url
+>>>>>>> posthog-analytics
 
 # Links to your social media accounts.
 # The keys should correspond to Fontawesome icon names
@@ -137,7 +143,6 @@ open_graph:
 # Enable MathJax support for Latex
 mathjax:
   enabled: false
-
 # Fill in your Disqus Comments Shortname to enable Disqus comments.
 disqus:
   enabled: false
@@ -160,6 +165,11 @@ google_analytics:
 baidu_analytics:
   enabled: true
   id: posthog
+
+# Fill in your PostHog Analytics tracking ID to enable PostHog Analytics.
+posthog_analytics:
+  enabled: false
+  id: 2e6da3c375c8a87f5b664cea6d4cb29c
 
 # Fill in your Cloudflare Analytics tracking ID to enable Cloudflare Analytics.
 cloudflare_analytics:
