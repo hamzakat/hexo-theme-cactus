@@ -168,8 +168,8 @@ baidu_analytics:
 
 # Fill in your PostHog Analytics tracking ID to enable PostHog Analytics.
 posthog_analytics:
-  enabled: false
-  id: 2e6da3c375c8a87f5b664cea6d4cb29c
+  enabled: true
+  id: phc_ieoJgXfRMlxDTEyRFiDjYnE694amYegdcnCoAc7RmJQ
 
 # Fill in your Cloudflare Analytics tracking ID to enable Cloudflare Analytics.
 cloudflare_analytics:
