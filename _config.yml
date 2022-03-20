@@ -41,7 +41,7 @@ tags_overview: false
 #   - sort_updated: sort posts by last modification date instead of creation date.
 posts_overview:
   show_all_posts: false
-  post_count: 1
+  post_count: 3
   sort_updated: false
 
 # Customize the archive view.
@@ -157,13 +157,13 @@ google_analytics:
 
 # Fill in your Baidu Analytics tracking ID to enable Baidu Analytics.
 baidu_analytics:
-  enabled: true
-  id: posthog
+  enabled: false
+  id: 12321321321
 
 # Fill in your PostHog Analytics tracking ID to enable PostHog Analytics.
 posthog_analytics:
   enabled: true
-  id: phc_ieoJgXfRMlxDTEyRFiDjYnE694amYegdcnCoAc7RmJQ
+  id: 1
 
 # Fill in your Cloudflare Analytics tracking ID to enable Cloudflare Analytics.
 cloudflare_analytics:
