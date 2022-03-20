@@ -8,7 +8,7 @@
 projects_url: http://github.com/hamzakat
 
 # Set the page direction to RTL or LTR. default is LTR. (if you set it 'rtl', the 'vazir' font will be loaded.)
-direction: ltr
+direction: rtl
 # Configure the navigation menu.
 # A pair 'Key: url' will result in a link to 'url' with the name 'Key' in the
 # navigation menu. Optionally, you can add translations for the 'Key' in
